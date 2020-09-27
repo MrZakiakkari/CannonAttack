@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30309.148
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CannonAttackTest", "CannonAttackTest\CannonAttackTest.csproj", "{660BEBA6-EEEB-4B6A-85C7-04BE3AE4B1E9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CannonAttack", "..\CannonAttack\CannonAttack.csproj", "{ABADAD14-1133-4D55-9943-799F750A4E89}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{660BEBA6-EEEB-4B6A-85C7-04BE3AE4B1E9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{660BEBA6-EEEB-4B6A-85C7-04BE3AE4B1E9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{660BEBA6-EEEB-4B6A-85C7-04BE3AE4B1E9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{660BEBA6-EEEB-4B6A-85C7-04BE3AE4B1E9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{ABADAD14-1133-4D55-9943-799F750A4E89}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ABADAD14-1133-4D55-9943-799F750A4E89}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ABADAD14-1133-4D55-9943-799F750A4E89}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ABADAD14-1133-4D55-9943-799F750A4E89}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4507CA27-7932-47EC-8EEF-E0BA467FCB87}
+	EndGlobalSection
+EndGlobal
